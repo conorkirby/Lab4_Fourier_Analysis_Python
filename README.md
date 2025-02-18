@@ -13,9 +13,20 @@ The exercises guide you through implementing Python scripts to perform Fourier a
 
 The lab is divided into three main exercises:
 
-1. **Simpson’s Rule and Fourier Series**: Implement Simpson’s rule for numerical integration and use it to compute Fourier series coefficients for various periodic functions.
-2. **Fourier Transform for Non-Periodic Functions**: Extend the analysis to non-periodic signals using the Fourier transform and explore the concept of the **Nyquist frequency**.
-3. **Discrete Fourier Transform (DFT)**: Implement a DFT to analyze sampled signals and reconstruct them from their Fourier components.
+### 1. Simpson’s Rule and Fourier Series
+- Implement **Simpson’s rule** for numerical integration.
+- Use it to compute **Fourier series coefficients** for periodic functions like sine, cosine, and custom waveforms.
+- Reconstruct signals using the computed coefficients and visualize the results.
+
+### 2. Fourier Transform for Non-Periodic Functions
+- Extend the analysis to **non-periodic signals** using the **Fourier transform**.
+- Explore the concept of the **Nyquist frequency** and its implications for signal sampling.
+- Analyze the frequency spectrum of non-periodic signals.
+
+### 3. Discrete Fourier Transform (DFT)
+- Implement a **DFT** to analyze sampled signals.
+- Reconstruct signals from their Fourier components.
+- Investigate the effects of **sampling rates** and **aliasing** on the frequency spectrum.
 
 ## Repository Contents
 
